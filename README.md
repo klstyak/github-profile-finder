@@ -1,3 +1,6 @@
+# Check it out:
+https://github-profile-finderrr.vercel.app/
+
 # Project description 
 
 A clean, responsive web application that allows users to search for GitHub profiles. App allows users to:
