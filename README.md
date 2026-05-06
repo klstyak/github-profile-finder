@@ -20,7 +20,7 @@ A clean, responsive web application that allows users to search for GitHub profi
 * CSS3
 * Vanilla JavaScript (ES6+)
 
-How to Run the Project Locally
+# How to Run the Project Locally
 1. Clone the repository
 
 `git clone https://github.com/klstyak/github-profile-finder.git
